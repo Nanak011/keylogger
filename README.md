@@ -1,6 +1,6 @@
-# 🛡️ Keylogger - Task 4 (Prodigy Infotech Internship)
+# 🛡️ Keylogger
 
-This is a basic Python keylogger created for Task 4 of the Cybersecurity Internship at Prodigy Infotech. It captures keystrokes and logs them to a file, with a timestamp for each session start.
+This is a basic Python keylogger. It captures keystrokes and logs them to a file, with a timestamp for each session start.
 
 Disclaimer: This tool is intended for educational purposes only. Do not use it on any system without explicit permission. Unauthorized monitoring is illegal and unethical.
 
